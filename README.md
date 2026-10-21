@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,313 · **Forks**: 145 · **Open issues**: 431 · **Contributors**: 49
+- **Stars**: 3,318 · **Forks**: 145 · **Open issues**: 431 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-21 | 1 | 2 | 1 | 4 | 2 | 9 |
-| 90d | 2026-07-22 | 3 | 6 | 1 | 9 | 2 | 19 |
-| last180d | 2026-04-23 | 6 | 8 | 1 | 13 | 2 | 34 |
-| 360d | 2025-10-25 | 8 | 17 | 1 | 24 | 6 | 73 |
-| last720d | 2024-10-30 | 23 | 22 | 1 | 82 | 7 | 155 |
+| 30d | 2026-09-21 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-22 | 1 | 2 | 1 | 4 | 2 | 9 |
+| 90d | 2026-07-23 | 3 | 6 | 1 | 9 | 2 | 19 |
+| last180d | 2026-04-24 | 6 | 8 | 1 | 13 | 2 | 34 |
+| 360d | 2025-10-26 | 8 | 17 | 1 | 24 | 6 | 73 |
+| last720d | 2024-10-31 | 23 | 22 | 1 | 80 | 7 | 155 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ugrep lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:54:40Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:45:05Z._
