@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2080630,
       "digest": "sha256:4887e305ff06e5510ee4e3c7da8b7928b59042b379717027aea1aec19b28204f",
-      "download_count": 2521,
+      "download_count": 2554,
       "created_at": "2026-09-15T11:42:46Z",
       "updated_at": "2026-09-15T11:42:48Z",
       "browser_download_url": "https://github.com/Genivia/ugrep/releases/download/v7.8.5/ugrep-windows-x64.zip"
