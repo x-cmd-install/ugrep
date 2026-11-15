@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-09-15 | 1 | 0 | 2 | 0 | 3 | 0 |
-| 90d | 2026-08-16 | 1 | 3 | 2 | 6 | 4 | 11 |
-| last180d | 2026-05-18 | 3 | 8 | 2 | 11 | 4 | 22 |
-| 360d | 2025-11-19 | 8 | 14 | 2 | 22 | 8 | 72 |
-| last720d | 2024-11-24 | 20 | 21 | 2 | 74 | 9 | 143 |
+| 30d | 2026-10-16 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 2 | 0 | 3 | 0 |
+| 90d | 2026-08-17 | 1 | 2 | 2 | 6 | 4 | 10 |
+| last180d | 2026-05-19 | 3 | 8 | 2 | 11 | 4 | 22 |
+| 360d | 2025-11-20 | 8 | 14 | 2 | 22 | 8 | 71 |
+| last720d | 2024-11-25 | 20 | 21 | 2 | 73 | 9 | 143 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for ugrep lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:04:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:15:14Z._
